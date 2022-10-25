@@ -6,4 +6,5 @@ pequeña app con React, aplicando Componentes y useState mostrando citas o frace
 al dar clic al boton, cambiaran las fraces, cambiando de color las letras, el background y el color del boton.
 se le agrego animacion al boton que al dar clic gire.
 
-https://github.com/tecni2/React-Entregable--1/issues/1#issue-1422988892
+imagen del proyecto final
+https://user-images.githubusercontent.com/29103120/197868507-c096552f-5f2f-4206-866b-43ca5b1bc28f.png
