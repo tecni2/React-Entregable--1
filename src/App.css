@@ -1,0 +1,64 @@
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card-quote {
+  background-color: aliceblue;
+  box-shadow: 6px 8px 10px 1px rgba(0,0,0,0.62);
+  -webkit-box-shadow: 6px 8px 10px 1px rgba(0,0,0,0.62);
+  -moz-box-shadow: 6px 8px 10px 1px rgba(0,0,0,0.62);
+  border-radius: 5px;
+  width: 650PX;
+  height: fit-content;
+  padding: 25px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+ 
+}
+
+button {
+  border: none;
+  margin: 5px 20px 0 0;
+  padding: 10px;
+}
+
+.button-circle {
+  transition: 1s;
+  transform: rotate(360deg);
+}
+
+
+.paragraph-author {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+
+}
+
+.paragraph {
+  font-size: 25px;
+}
+
+.fa-quote-left {
+  margin-right: 10px;
+  font-size: 45px;
+}
+   
+.fa-arrows-to-circle {
+ font-size: 30px;
+}
